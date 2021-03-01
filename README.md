@@ -14,7 +14,6 @@ Spotify Clone
 ## Start Dev Environment for VSCode
 
 1. Open project folder in `VSCode`
-2. Run the command in your terminal `npm install tailwindcss@latest postcss@latest autoprefixer@latest`
 2. Install `Live Server` extension
 3. Right click `index.html` > `Open with Live Server`
 4. Access the **generated address** in your browser 🚀
